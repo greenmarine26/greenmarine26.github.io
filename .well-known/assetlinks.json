@@ -1,1 +1,7 @@
-[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.greenmarine.tally", "sha256_cert_fingerprints": ["C0:67:E0:73:A9:40:80:F7:B0:4A:E8:FE:B1:B5:F7:8B:A1:18:82:F3:F4:27:39:39:2C:64:4E:7E:43:B2:36:1B"]}}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {"namespace": "android_app", "package_name": "com.greenmarine.tally", "sha256_cert_fingerprints": ["C0:67:E0:73:A9:40:80:F7:B0:4A:E8:FE:B1:B5:F7:8B:A1:18:82:F3:F4:27:39:39:2C:64:4E:7E:43:B2:36:1B"]}
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {"namespace": "android_app", "package_name": "com.greenmarine.cone", "sha256_cert_fingerprints": ["C0:67:E0:73:A9:40:80:F7:B0:4A:E8:FE:B1:B5:F7:8B:A1:18:82:F3:F4:27:39:39:2C:64:4E:7E:43:B2:36:1B"]}
+}]
